@@ -4,7 +4,7 @@ A grapeme-to-phonem (G2P) conversion model for Frenchm fine-tuned on ByT5 using 
 
 
 ## Overview
-1. Evaluation model (g2p-multilingual-byt5-tiny) with data French dictionary GLÀFF
+1. Evaluation model (g2p-multilingual-byt5-tiny) using the data French dictionary GLÀFF
 
 3. Sequence-to-sequence model for converting 
 French orthographic text into its phonetic transcription (IPA). It leverages 
